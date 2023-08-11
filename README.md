@@ -22,4 +22,34 @@ Automatically search and fetch YouTube links to cooking videos related to the su
 **Telegram notification system**  
 Sends menu recommendations and YouTube video links to users in Telegram messages.  
 
-**3. 
+**3. HardWare Setting**
+#### Respberry PI 
+
+We utilized Raspberry Pi to power our AI model and create data.  
+
+From the Raspberry homepage, you can save the Raspbian OS to an SD card, boot it, and install the necessary modules.  
+
+#### Camera Module Setting  
+
+You can install the camera module by following the link above.  
+
+Hardware connection  
+
+Enable the serial interface: Run sudo raspi-config and select 'Interfacing Options' > 'Serial' to enable hardware serial. 
+Write Python code or other code that can send and receive data through the serial port.  
+ 
+
+#### Raspberry PI Pico (W5100S-EVB-Pico)  
+
+
+Pico communicates and receives the data inferred by Raspberry Pi 4, and utilizes Ethernet communication to make menu recommendations using chatGPT.  
+
+Connect Ethernet, power and set up the UART to communicate with the Raspberry 4.  
+
+ 
+
+#### Hardware connections  
+
+> Connect GPIO pin 14 (TX) of the Raspberry Pi 4 to the UART RX pin of the Pico.
+> Connect GPIO pin 15 (RX) of the Raspberry Pi 4 to the UART TX pin of the Pico.
+> Connect the GND pins of both boards to each other.
