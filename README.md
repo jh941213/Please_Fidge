@@ -1,7 +1,7 @@
 ## 1. Introduction
 To reduce food waste and promote various cooking activities by recognizing the contents of the user's refrigerator, recommending possible cooking menus and providing related cooking videos.
 ## 2. Components
-**Raspberry Pi and the Pi Camera**
+**Raspberry Pi and the Pi Camera**  
 Capture the contents of the refrigerator and use object recognition to identify ingredients.  
 
 **Object recognition system **
