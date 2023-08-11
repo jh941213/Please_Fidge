@@ -42,8 +42,6 @@ You can install the camera module by following the link above.
 Enable the serial interface: Run sudo raspi-config and select 'Interfacing Options' > 'Serial' to enable hardware serial. 
 Write Python code or other code that can send and receive data through the serial port.    
 
-![IMG_5684](https://github.com/jh941213/Please_Fidge/assets/112835087/32ccc049-8ac5-4dee-af10-b46ad5c551d8)
-
 
 #### Raspberry PI Pico (W5100S-EVB-Pico)  
 
@@ -59,6 +57,9 @@ Connect Ethernet, power and set up the UART to communicate with the Raspberry 4.
 > Connect GPIO pin 14 (TX) of the Raspberry Pi 4 to the UART RX pin of the Pico.  
 > Connect GPIO pin 15 (RX) of the Raspberry Pi 4 to the UART TX pin of the Pico.  
 > Connect the GND pins of both boards to each other.
+
+
+![IMG_5684](https://github.com/jh941213/Please_Fidge/assets/112835087/32ccc049-8ac5-4dee-af10-b46ad5c551d8)
 
 ## **4. Software Setting**
   
