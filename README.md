@@ -99,5 +99,6 @@ First, sign up for Telegram and add 'BotFather' as a friend. and /newbot to crea
 
 If you see a token like that, your bot has been created. We send the bot a message "hello"
 <img width="768" alt="627693803_1691759164" src="https://github.com/jh941213/Please_Fidge/assets/112835087/a69bb6ae-4733-4e7b-bda4-47559d7390b2">
-> api.telegram.org/bot{"your_tokens"}/getUpdates  
+> api.telegram.org/bot{"your_tokens"}/getUpdates
+
 If you go to the webpage above, you'll see a JSON file of the message you sent and your information. From there, you can save your ID and check to see if the message was sent successfully.
