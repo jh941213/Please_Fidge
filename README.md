@@ -77,10 +77,14 @@ Open a terminal and run camera.py to detect objects. Once detected, press Ctrl +
 Configure Thony micropython, plug in an Ethernet connection, and run the file.
 
 ### RaspberryPI
-After establishing a physical connection with PICO, run main.py on RaspbianOS.
+After establishing a physical connection with PICO, run main.py on RaspbianOS.  
+
+```python
 #terminal
 python main.py
 ```
 
-The code should work fine, so feel free to adapt it to your environment. You just need to make them communicate.
+The code should work fine, so feel free to adapt it to your environment. You just need to make them communicate.  
+
+
 
