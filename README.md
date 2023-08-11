@@ -61,4 +61,8 @@ Connect Ethernet, power and set up the UART to communicate with the Raspberry 4.
   
 ### YOLOv5  
 ![splash (1)](https://github.com/jh941213/Please_Fidge/assets/112835087/7c2910a7-38ec-4fe8-bcc9-8b1586c422fd)
+```python
+!git clone 
+!git clone https://github.com/ultralytics/yolov5.git
+```
 
