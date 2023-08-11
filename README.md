@@ -109,5 +109,11 @@ That's it, you're ready for Telegram. Now it's time to implement it in code!
 
 If you're not sure, check out the link above!🔥  
 
+##5. Result ##
+
+![1](https://github.com/jh941213/Please_Fidge/assets/112835087/3cfe625e-ef46-4538-bcb1-d52355038684)
+
+!![RPReplay_Final1691731367_MP4_AdobeExpress](https://github.com/jh941213/Please_Fidge/assets/112835087/b4ce27b6-d668-437b-bb27-1c2cda8ec77e)
+[2](https://github.com/jh941213/Please_Fidge/assets/112835087/5274167a-848d-46d8-9b4d-e6c6572da74a)
 
 
