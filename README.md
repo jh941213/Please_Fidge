@@ -92,5 +92,11 @@ python main.py
 
 The code should work fine, so feel free to adapt it to your environment. You just need to make them communicate.  
 
+## ** Telegram Setting**
+First, sign up for Telegram and add 'BotFather' as a friend. and /newbot to create a bot and receive a token.  
+![627693803_1691758738](https://github.com/jh941213/Please_Fidge/assets/112835087/6559f339-4e1b-4483-872b-d5c5712378bd)
+![627693803_1691758957](https://github.com/jh941213/Please_Fidge/assets/112835087/3af30342-af90-4eb8-9227-11cb2ac3cf26)
+
+
 
 
