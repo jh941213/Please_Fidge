@@ -65,6 +65,8 @@ Connect Ethernet, power and set up the UART to communicate with the Raspberry 4.
   
 ### YOLOv5  
 ![splash (1)](https://github.com/jh941213/Please_Fidge/assets/112835087/7c2910a7-38ec-4fe8-bcc9-8b1586c422fd)
+**The trained weight file is total.pt and I've written the code in main.py to detect.py and set it up as a webcam.**  
+
 ```python
 !git clone https://github.com/jh941213/Please_Fidge.git
 cd RasberryPI4
