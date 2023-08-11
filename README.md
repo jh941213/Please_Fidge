@@ -5,6 +5,7 @@ To reduce food waste and promote various cooking activities by recognizing the c
 - Reduces food waste by efficiently utilizing the remaining ingredients in the refrigerator.
 - Helps users easily try different dishes, adding interest and enjoyment to cooking.
 
+---
 
 ## 2. Components  
 **Raspberry Pi and the Pi Camera**    
@@ -22,7 +23,9 @@ Automatically search and fetch YouTube links to cooking videos related to the su
 **Telegram notification system**  
 Sends menu recommendations and YouTube video links to users in Telegram messages.  
 
-**3. HardWare Setting**
+---
+
+## **3. HardWare Setting**
 #### Respberry PI 
 
 We utilized Raspberry Pi to power our AI model and create data.  
