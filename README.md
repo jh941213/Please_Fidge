@@ -56,3 +56,9 @@ Connect Ethernet, power and set up the UART to communicate with the Raspberry 4.
 > Connect GPIO pin 14 (TX) of the Raspberry Pi 4 to the UART RX pin of the Pico.  
 > Connect GPIO pin 15 (RX) of the Raspberry Pi 4 to the UART TX pin of the Pico.  
 > Connect the GND pins of both boards to each other.
+
+## **4. Software Setting**
+  
+### YOLOv5  
+![splash (1)](https://github.com/jh941213/Please_Fidge/assets/112835087/7c2910a7-38ec-4fe8-bcc9-8b1586c422fd)
+
