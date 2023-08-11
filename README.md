@@ -101,4 +101,13 @@ If you see a token like that, your bot has been created. We send the bot a messa
 <img width="768" alt="627693803_1691759164" src="https://github.com/jh941213/Please_Fidge/assets/112835087/a69bb6ae-4733-4e7b-bda4-47559d7390b2">
 > api.telegram.org/bot{"your_tokens"}/getUpdates
 
-If you go to the webpage above, you'll see a JSON file of the message you sent and your information. From there, you can save your ID and check to see if the message was sent successfully.
+If you go to the webpage above, you'll see a JSON file of the message you sent and your information. From there, you can save your ID and check to see if the message was sent successfully.  
+
+That's it, you're ready for Telegram. Now it's time to implement it in code!  
+
+[Python Telemgram Docs](https://docs.python-telegram-bot.org/en/stable/index.html)  
+
+If you're not sure, check out the link above!🔥  
+
+
+
