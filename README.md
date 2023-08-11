@@ -40,7 +40,8 @@ You can install the camera module by following the link above.
 **Hardware connection**  
 
 Enable the serial interface: Run sudo raspi-config and select 'Interfacing Options' > 'Serial' to enable hardware serial. 
-Write Python code or other code that can send and receive data through the serial port.  
+Write Python code or other code that can send and receive data through the serial port.    
+
 ![IMG_5684](https://github.com/jh941213/Please_Fidge/assets/112835087/32ccc049-8ac5-4dee-af10-b46ad5c551d8)
 
 
