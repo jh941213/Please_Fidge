@@ -4,7 +4,7 @@ To reduce food waste and promote various cooking activities by recognizing the c
 **Raspberry Pi and the Pi Camera**    
 Capture the contents of the refrigerator and use object recognition to identify ingredients.  
 
-**Object recognition system **  
+**Object recognition system**  
 Use YOLOv5 to accurately recognize ingredients from images.  
 
 **OpenAI API**   
