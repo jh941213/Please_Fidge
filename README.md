@@ -66,6 +66,12 @@ Connect Ethernet, power and set up the UART to communicate with the Raspberry 4.
 cd RasberryPI4
 !git clone https://github.com/ultralytics/yolov5.git
 ```
+```python
+#terminal
+python camera.py
+```
+Open a terminal and run camera.py to detect objects. Once detected, press Ctrl + C to exit the terminal.
 
+```
 
-
+```
