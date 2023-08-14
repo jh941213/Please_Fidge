@@ -112,7 +112,7 @@ If you're not sure, check out the link above!🔥
 ## **5. Result**
 The results of the project. Prepare delicious dishes with ingredients from your fridge!
 
-![1](https://github.com/jh941213/Please_Fidge/assets/112835087/3cfe625e-ef46-4538-bcb1-d52355038684)
-![2](https://github.com/jh941213/Please_Fidge/assets/112835087/0028767b-6a96-4c81-abf7-c4a195cbcf5f)
+<img src="https://github.com/jh941213/Please_Fidge/assets/112835087/3cfe625e-ef46-4538-bcb1-d52355038684" width="300">
+<img src="https://github.com/jh941213/Please_Fidge/assets/112835087/0028767b-6a96-4c81-abf7-c4a195cbcf5f" width="300">
 ![RPReplay_Final1691731367_MP4_AdobeExpress](https://github.com/jh941213/Please_Fidge/assets/112835087/f1814748-7009-412a-bde9-f2b2b4c5ca88)
 
